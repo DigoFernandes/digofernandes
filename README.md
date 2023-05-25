@@ -2,8 +2,6 @@
 <h3 align="center">A junior who is starting his studies!</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digofernandes&label=Profile%20views&color=0e75b6&style=flat" alt="digofernandes" /> </p>
-
 - 🌱 I’m currently learning **Java and Python**
 
 - 📫 How to reach me **Digosfernandes1@gmail.com**
