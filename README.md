@@ -2,8 +2,11 @@
 
 I'm a junior developer with experience in Java and currently exploring the world of data science with Python.
 
-- I’m currently learning  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
+- I’m currently learning  
+
+  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
   ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)  
+
 - 📫 How to reach me: **Digosfernandes1@gmail.com**
 
 ### Connect with me:
