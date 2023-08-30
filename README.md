@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Rodrigo Fernandes</h1>
-<h3 align="center">A junior who is starting his studies!</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+# Hi 👋, I'm Rodrigo Fernandes
 
-- 🌱 I’m currently learning **Java and Python**
+I'm a junior developer with experience in Java and currently exploring the world of data science with Python.
 
-- 📫 How to reach me **Digosfernandes1@gmail.com**
+- I’m currently learning  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
+  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)  
+- 📫 How to reach me: **Digosfernandes1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rodrigo-souza-742175149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigo-souza-742175149" height="30" width="40" /></a>
-<a href="https://instagram.com/fernandessdigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernandessdigo" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=digofernandes&show_icons=true&locale=en&layout=compact" alt="digofernandes" /></p>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://linkedin.com/in/rodrigo-souza-742175149/)
+
+  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/_digo_)
+
+  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://instagram.com/fernandessdigo)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=digofernandes&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
