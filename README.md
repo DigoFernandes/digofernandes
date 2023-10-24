@@ -3,9 +3,11 @@
 I'm a junior developer with experience in Java and currently exploring the world of data science with Python.
 
 - I’m currently learning  
-
-  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)  
-  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)  
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![PostgreeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 📫 How to reach me: **Digosfernandes1@gmail.com**
 
