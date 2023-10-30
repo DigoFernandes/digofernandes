@@ -13,6 +13,8 @@ Here are some of the technologies I'm currently learning and working with:
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digofernandes)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to reach me
 
 You can reach me via email at **Digosfernandes1@gmail.com**.
