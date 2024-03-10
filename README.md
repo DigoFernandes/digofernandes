@@ -17,9 +17,8 @@ Here are some of the technologies I'm currently learning and working with:
 
 ## 🤝 Connect with me
 
-Let's connect and stay in touch:
-
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-souza-742175149/)
+  
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
