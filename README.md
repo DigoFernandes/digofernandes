@@ -15,18 +15,11 @@ Here are some of the technologies I'm currently learning and working with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoFernandes&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 How to reach me
-
-You can reach me via email at **Digosfernandes1@gmail.com**.
-
 ## 🤝 Connect with me
 
 Let's connect and stay in touch:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-souza-742175149/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandessdigo)
-
-## 📈 Grap
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
