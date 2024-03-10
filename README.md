@@ -26,8 +26,7 @@ Let's connect and stay in touch:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-souza-742175149/)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernandessdigo)
 
-## 🔥 GitHub Streak
+## 📈 Grap
 
-Check out my GitHub contribution streak:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=digofernandes&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
