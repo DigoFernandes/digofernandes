@@ -28,5 +28,5 @@ Let's connect and stay in touch:
 
 ## 📈 Grap
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
