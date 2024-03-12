@@ -1,6 +1,6 @@
 ## <img src="https://camo.githubusercontent.com/ee9d678a838fdc800a7b1449bae75552c13bfa5afeb275eb6b315e02499c8ba0/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="50"> Hey! Nice to see you.
 Welcome to my page!
-I'm Rodrigo, a developer from Bahia, Brazil!
+I'm Rodrigo, a developer from <img src="https://github.com/DigoFernandes/digofernandes/assets/60413250/06a0f0bd-877e-410e-951d-09b51fd8f44b" width="10"> Bahia, Brazil!
 
 
 ## 🔭 Skills
