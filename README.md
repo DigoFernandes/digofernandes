@@ -14,6 +14,8 @@ Aqui são algumas linguagens e ferramentas que eu estou aprendendo ou trabalhand
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digofernandes)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoFernandes&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
