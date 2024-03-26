@@ -16,7 +16,7 @@ Aqui são algumas linguagens e ferramentas que eu estou aprendendo ou trabalhand
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digofernandes)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoFernandes&layout=compact&langs_count=16&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigoFernandes&layout=compact&langs_count=16&theme=dark&hide=php)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
