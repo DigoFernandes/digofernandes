@@ -7,6 +7,12 @@ Opa, tudo bom?
 Sou Rodrigo Fernandes, Java Developer 🚀. Ainda estou me desenvolvendo como profissional na área. Nas horas vagas, gosto muito de ler 📖 e jogar 🕹️!
 
 
+## Algumas coisas pessoais:
+
+- 👨🏽‍💻 Criando sempre um novo projeto 🚀 ;
+- 🌱 Estou sempre aprendendo mais sobre Java ⚛️ ;
+- 💡 Gosto de explorar novos desafios, aprender e aplicar novos conceitos no desenvolvimento de software.
+- 📫 Me envie um email: Digosfernandes1@gmail.com;
 
 ## 🔭 Linguagens e ferramentas
 
@@ -21,6 +27,6 @@ Aqui são algumas linguagens e ferramentas que eu estou aprendendo ou trabalhand
 
 
   
-## Activity Graph
+## Grafico de atividades
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
