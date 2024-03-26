@@ -30,3 +30,4 @@ Aqui são algumas linguagens e ferramentas que eu estou aprendendo ou trabalhand
 ## Grafico de atividades
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DigoFernandes&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![](https://komarev.com/ghpvc/?username=DigoFernandes&color=gray)
