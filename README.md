@@ -6,9 +6,7 @@ Sou Rodrigo Fernandes, **Java Developer** 🚀.
 
 - 💡 Estou me desenvolvendo como profissional na área, sempre explorando novos desafios e aplicando novos conceitos.
 - 🌱 Atualmente, estou focado em aprender mais sobre **Java** ⚛️ e seu ecossistema.
-- 👨🏽‍💻 Gosto de estar sempre criando um novo projeto.
-- 📖 Nas horas vagas, gosto muito de ler e jogar 🕹️!
-
+- 
 ## 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-souza-742175149/)
